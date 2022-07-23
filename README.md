@@ -10,7 +10,7 @@
 
 - 📫 You can reach me on **shubhakhadgi007@gmail.com**
 
-- ⚡ Fun fact: **I also like to paint and play instruments.**
+- ⚡ Fun fact: **I also paint and play instruments.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
