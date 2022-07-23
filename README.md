@@ -1,11 +1,10 @@
-[![MasterHead](https://media3.giphy.com/media/3o752oeUYz6S2SHi5W/giphy.gif?cid=ecf05e47owgoixqmmwg8obwla661gqab0ibcedl47y60urhz&rid=giphy.gif&ct=g)]
 <h1 align="center">Hey there, I'm Shubha.</h1>
 <h3 align="center">A programmer, developer, and an aspiring graphic designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhaaaaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="shubhaaaaaaa" /> </p>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
-- 🔭 I’m currently working on **a blog website**
+- 🔭 I’m currently working on **a blog website.**
 
 - 🌱 I’m currently learning **Node.js, Python**
 
@@ -15,16 +14,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/shubhakhadgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shubhakhadgi" height="30" width="40" /></a>
-<a href="https://twitter.com/shubhakhadgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhakhadgi" height="30" width="40" /></a>
+
+
 <a href="https://linkedin.com/in/shubha-khadgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubha-khadgi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shubhaaaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shubhaaaaaaa" height="30" width="40" /></a>
-<a href="https://fb.com/shubhakhadgi007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubhakhadgi007" height="30" width="40" /></a>
+
 <a href="https://instagram.com/shubhaaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhaaaaaa" height="30" width="40" /></a>
-<a href="https://dribbble.com/shubhakhadgi007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shubhakhadgi007" height="30" width="40" /></a>
-<a href="https://www.behance.net/shubha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shubha1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shubhakhadgi007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhakhadgi007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubhaaaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhaaaaaaa" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
