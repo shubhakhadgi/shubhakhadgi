@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Shubha.</h1>
-<h3 align="center">A fullstack developer and aspiring graphic designer.</h3>
+<h3 align="center">A fullstack developer and graphic designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhaaaaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="shubhaaaaaaa" /> </p>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
