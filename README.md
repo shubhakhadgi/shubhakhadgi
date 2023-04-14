@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a blog website.**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 You can reach me on **shubhakhadgi007@gmail.com**
 
