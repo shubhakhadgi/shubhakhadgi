@@ -33,7 +33,7 @@
     &nbsp;&nbsp;
     <!-- cPanel Icon -->
     <a href="https://cpanel.net/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/607826?s=200&v=4" alt="cpanel" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/CPanel_logo.svg" alt="cpanel" width="40" height="40"/>
     </a>
     &nbsp;&nbsp;
     <!-- WordPress Icon -->
@@ -43,14 +43,16 @@
     &nbsp;&nbsp;
     <!-- Tailwind CSS Icon -->
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/>
     </a>
     &nbsp;&nbsp;
     <!-- GSAP Icon -->
     <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
-        <img src="https://greensock.com/uploads/set_resources_2x/gss-logo.png" alt="gsap" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/greensock/GreenSock-JS/master/docs/images/logo.svg" alt="gsap" width="40" height="40"/>
     </a>
 </p>
+
+
 
 <br/><br/>
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhaaaaaaa&show_icons=true&locale=en&layout=compact" alt="shubhaaaaaaa" /></p>
