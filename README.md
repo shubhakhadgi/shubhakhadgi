@@ -31,6 +31,9 @@
     &nbsp;&nbsp;
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/></a>
     &nbsp;&nbsp;
+    <a href="https://cpanel.net/" target="_blank" rel="noreferrer">
+        <img src="path/to/cpanel-icon.svg" alt="cPanel" width="40" height="40"/>
+    </a>
     
 
 
