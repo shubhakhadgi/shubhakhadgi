@@ -21,48 +21,13 @@
 ### Languages and Tools:
 
 <p align="left">
-    <!-- React Icon -->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
     &nbsp;&nbsp;
-
-    <!-- Node.js Icon -->
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
     &nbsp;&nbsp;
-
-    <!-- JavaScript Icon -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
     &nbsp;&nbsp;
-
-    <!-- WordPress Icon -->
-    <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
-    </a>
-    &nbsp;&nbsp;
-
-    <!-- Tailwind CSS Icon -->
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
-    </a>
-    &nbsp;&nbsp;
-
-    <!-- cPanel Icon -->
-    <a href="https://cpanel.net/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/CPanel_logo.svg" alt="cpanel" width="40" height="40"/>
-    </a>
-    &nbsp;&nbsp;
-
-    <!-- GSAP Icon -->
-    <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/greensock/GreenSock-JS/master/docs/images/logo.svg" alt="gsap" width="40" height="40"/>
-    </a>
-    &nbsp;&nbsp;
-</p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 
 
 
